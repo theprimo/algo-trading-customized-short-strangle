@@ -17,7 +17,6 @@ Comments - short strangle or short straddle gives huge loss in case of big gap u
 Test - directional biased options selling, credit spreads
 Can Test - calendar spreads, credit spreads, ratio spreads, iron condor
 
-
 python schedule - use it for automatic execution of python file
 windows task scheduler - use if for automatic execution of batch file
 
