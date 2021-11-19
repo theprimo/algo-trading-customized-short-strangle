@@ -7,8 +7,8 @@ NSE NIFTY BANK OTM Weekly options, market orders - Overnight positions
 Fyers API - for live market orders placement & management
 Samco API - for fetching live market data
 
-Entry - today before eod
-Exit - tomorrow on opening
+Entry - current trade day before market close
+Exit - next trade day on market opening
 
 Strategy - short strangle, customized
 Tried - results were not so profitable, need mode customization
