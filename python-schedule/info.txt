@@ -1,0 +1,13 @@
+
+
+#### schedule info ####
+
+using schedule package in python to schedule automatic execution of
+a python file/code at a certain time/periodic intervals
+
+schedule is similar to crontab in linux
+
+we can schedule the automatic execution of any python code
+using python schedule package/module
+
+
